@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or our maps, please cite it as below."
+authors:
+- family-names: "Anderson"
+  given-names: "Reed"
+  orcid: "https://orcid.org/0009-0002-4030-1468"
+title: "ForestMonster - AI Enables 1-Meter Resolution Forestry Maps Using Aerial and Satellite Remote Sensing Fusion"
+version: 0.0.1
+doi: 10.5281/zenodo.13333314
+date-released: 2024-08-16
+url: "https://github.com/reedanders/ForestMonster"
