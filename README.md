@@ -8,15 +8,14 @@ We plan to acheive this with fused input data from aerial active remote sensing 
 
 Please cite us with the below:
 
-```
-@software{Anderson_ForestMonster_-_AI_2024,
-author = {Anderson, Reed},
-doi = {10.5281/zenodo.13333314},
-month = aug,
-title = {{ForestMonster - AI Enables 1-Meter Resolution Forestry Maps Using Aerial and Satellite Remote Sensing Fusion}},
-url = {https://github.com/reedanders/ForestMonster},
-version = {0.0.1},
-year = {2024}
-}
-```
+	@software{Anderson_ForestMonster_-_AI_2024,
+      author={Anderson, Reed},
+      doi={10.5281/zenodo.13333314},
+      month=aug,
+      title={{ForestMonster - AI Enables 1-Meter Resolution Forestry Maps Using Aerial and Satellite Remote Sensing Fusion}},
+      url={https://github.com/reedanders/ForestMonster},
+      version={0.0.1},
+      year={2024}
+	}
+ 
 [![DOI](https://zenodo.org/badge/843495432.svg)](https://zenodo.org/doi/10.5281/zenodo.13333313)
